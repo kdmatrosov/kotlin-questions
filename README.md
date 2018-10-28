@@ -5,4 +5,4 @@
 * Метаданные в Kotlin. Зачем? Как хранятся? [ответ](https://speakerdeck.com/takhion/exploiting-kotlin-metadata-plus-annotation-processing)
 * Функции - расширения. Тип-получатель, объект-получатель
 * sealed class [ответ](https://stackoverflow.com/questions/50772328/what-are-sealed-classes-in-kotlin)
-* data class. Какие ограничения?
+* data class. Какие ограничения? [ответ](https://kotlinlang.org/docs/reference/data-classes.html)
