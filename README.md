@@ -6,4 +6,4 @@
 * Функции - расширения. Тип-получатель, объект-получатель [ответ 1](https://stackoverflow.com/questions/45875491/what-is-a-receiver-in-kotlin)
 * sealed class [ответ](https://stackoverflow.com/questions/50772328/what-are-sealed-classes-in-kotlin)
 * data class. Какие ограничения? [ответ](https://kotlinlang.org/docs/reference/data-classes.html)
-* ```val (a,b,c) = obj```. Как работает?
+* ```val (a,b,c) = obj```. Как работает? [ответ 1](http://kotlinlang.org/docs/reference/multi-declarations.html), [ответ 2](https://www.baeldung.com/kotlin-destructuring-declarations) 
