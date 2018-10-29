@@ -7,4 +7,4 @@
 * sealed class [ответ](https://stackoverflow.com/questions/50772328/what-are-sealed-classes-in-kotlin)
 * data class. Какие ограничения? [ответ](https://kotlinlang.org/docs/reference/data-classes.html)
 * ```val (a,b,c) = obj```. Как работает? [ответ 1](http://kotlinlang.org/docs/reference/multi-declarations.html), [ответ 2](https://www.baeldung.com/kotlin-destructuring-declarations) 
-* ```use```. [ответ](https://www.tutorialkart.com/kotlin/kotlin-use-function/)
+* ```use```. [ответ 1](https://www.tutorialkart.com/kotlin/kotlin-use-function/), [ответ 2](http://kotlinlang.org/api/latest/jvm/stdlib/kotlin.io/use.html)
