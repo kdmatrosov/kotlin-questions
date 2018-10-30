@@ -9,3 +9,4 @@
 * ```val (a,b,c) = obj```. Как работает? [ответ 1](http://kotlinlang.org/docs/reference/multi-declarations.html), [ответ 2](https://www.baeldung.com/kotlin-destructuring-declarations) 
 * ```use```. [ответ 1](https://www.tutorialkart.com/kotlin/kotlin-use-function/), [ответ 2](http://kotlinlang.org/api/latest/jvm/stdlib/kotlin.io/use.html)
 * coroutines
+* Коллекции. [ответ 1](https://blog.jetbrains.com/kotlin/2012/09/kotlin-m3-is-out/#Collections)
