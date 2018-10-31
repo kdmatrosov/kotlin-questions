@@ -10,3 +10,5 @@
 * ```use```. [ответ 1](https://www.tutorialkart.com/kotlin/kotlin-use-function/), [ответ 2](http://kotlinlang.org/api/latest/jvm/stdlib/kotlin.io/use.html)
 * coroutines
 * Коллекции. [ответ 1](https://blog.jetbrains.com/kotlin/2012/09/kotlin-m3-is-out/#Collections)
+* Регулярные выражения. [ответ](https://www.baeldung.com/kotlin-regular-expressions)
+* Generics. [ответ](https://www.baeldung.com/kotlin-generics)
