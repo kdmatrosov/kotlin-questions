@@ -12,3 +12,4 @@
 * Коллекции. ([ответ](https://blog.jetbrains.com/kotlin/2012/09/kotlin-m3-is-out/#Collections))
 * Регулярные выражения. ([ответ](https://www.baeldung.com/kotlin-regular-expressions))
 * Generics. ([ответ](https://www.baeldung.com/kotlin-generics))
+* type aliases. ([ответ 1](https://kotlinlang.org/docs/reference/coding-conventions.html#type-aliases), [ответ 2](https://discuss.kotlinlang.org/t/what-is-type-alias-in-kotlin/8285/2), [ответ 3](https://typealias.com/guides/all-about-type-aliases/))
