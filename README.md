@@ -8,7 +8,7 @@
 * data class. Какие ограничения? ([ответ](https://kotlinlang.org/docs/reference/data-classes.html))
 * ```val (a,b,c) = obj```. Как работает? ([ответ 1](http://kotlinlang.org/docs/reference/multi-declarations.html), [ответ 2](https://www.baeldung.com/kotlin-destructuring-declarations))
 * ```use```. ([ответ 1](https://www.tutorialkart.com/kotlin/kotlin-use-function/), [ответ 2](http://kotlinlang.org/api/latest/jvm/stdlib/kotlin.io/use.html))
-* coroutines. ([ответ](https://kotlinlang.org/docs/reference/coroutines/basics.html), (ответ android)[https://proandroiddev.com/async-code-using-kotlin-coroutines-233d201099ff])
+* coroutines. ([ответ](https://kotlinlang.org/docs/reference/coroutines/basics.html), [ответ android](https://proandroiddev.com/async-code-using-kotlin-coroutines-233d201099ff))
   * Разница между async и launch. ([ответ](https://stackoverflow.com/questions/46226518/what-is-the-difference-between-launch-join-and-async-await-in-kotlin-coroutines))
 * Коллекции. ([ответ](https://blog.jetbrains.com/kotlin/2012/09/kotlin-m3-is-out/#Collections))
 * Регулярные выражения. ([ответ](https://www.baeldung.com/kotlin-regular-expressions))
