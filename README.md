@@ -15,3 +15,4 @@
 * Generics. ([ответ](https://www.baeldung.com/kotlin-generics))
 * type aliases. ([ответ 1](https://kotlinlang.org/docs/reference/coding-conventions.html#type-aliases), [ответ 2](https://discuss.kotlinlang.org/t/what-is-type-alias-in-kotlin/8285/2), [ответ 3](https://typealias.com/guides/all-about-type-aliases/))
 * Модификаторы доступа (public, internal, protected, private). ([ответ 1](https://medium.com/@HugoMatilla/kotlin-basics-visibility-modifiers-public-internal-protected-and-private-c3bf972aee11), [ответ 2](https://kotlinlang.org/docs/reference/visibility-modifiers.html))
+* Coroutine context and dispatchers. ([ответ 1](https://kotlinlang.org/docs/reference/coroutines/coroutine-context-and-dispatchers.html), [ответ 2](https://medium.com/@elizarov/coroutine-context-and-scope-c8b255d59055))
